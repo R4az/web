@@ -27,6 +27,20 @@ address{
     margin:0px;
     color:#0f0f0f;
 }
+.carousel {
+    background:#512DA8;
+}
+
+.carousel-item {
+  height: 300px;
+}
+
+.carousel-item img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-height: 300px;
+}
 
 body{
     padding:50px 0px 0px 0px;
@@ -35,4 +49,10 @@ body{
 
 .navbar-dark {
      background-color: #512DA8;
+}
+.jumbotron1 {
+    padding:70px 30px 70px 30px;
+    margin:0px auto;
+    background: #F9F5F4 ;
+    color:floralwhite;
 }
